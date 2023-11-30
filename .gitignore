@@ -1,0 +1,15 @@
+*.Rproj.user
+*.Rhistory
+*.RData
+*.Ruserdata
+*.csv
+*.txt
+*.xlsl
+*.xls
+.Rproj.user
+*.html
+*.js
+*.css
+*.scss
+*.map
+
