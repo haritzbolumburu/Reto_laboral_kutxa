@@ -1,4 +1,5 @@
 # RETO5_Morado
+
 Repositorio en GitHub del equipo Morado
 
 La estructura del respositorio cuenta con diferentes carpetas con scripts del lenguaje de programación R de diferentes sectores; **preprocesamiento**, **análisis EDA** y **modelado**. Por otro lado se disponen otras dos carpetas:
